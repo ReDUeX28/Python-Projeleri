@@ -1,2 +1,2 @@
 # Python-Projeleri
-Açıklayıcı PYTHON Projeleri
+Açıklayıcı PYTHON Projelerini Burda Bulabilirsiniz.
